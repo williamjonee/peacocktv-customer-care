@@ -11,7 +11,7 @@ How to Contact Peacock TV Customer Care? 📞
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://tvpeacock.support
+   :target: https://tvpeacock.support/support.html
 __________________
 
 Peacock TV has rapidly become one of the most popular streaming platforms in the United States, offering a wide range of content including TV shows, movies, sports, and exclusive originals. Whether you're binge-watching classic sitcoms or tuning into live Premier League matches, Peacock TV offers entertainment for every kind of viewer.
